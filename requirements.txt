@@ -1,8 +1,6 @@
 ﻿elevenlabs==0.2.26
 gitdb==4.0.11
 GitPython==3.1.40
-ImageMagic==0.2.1
-moviepy==1.0.3
 numpy==1.26.1
 opencv-python==4.8.1.78
 openpyxl==3.1.2
